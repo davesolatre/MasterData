@@ -6,6 +6,7 @@ import java.util.Scanner;
 public class rpsGame {
 
 	public static void main(String[] args) {
+		//edited by dave
 
 		Scanner scan = new Scanner(System.in);
 

@@ -4,6 +4,8 @@ import java.util.Scanner;
 
 public class calculator {
 	public static void main(String[] args) {
+		
+		//edited by dave
 
 		int userChoice;
 		String userEntry;

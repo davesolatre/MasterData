@@ -48,6 +48,7 @@ public class arrayElementAddition {
 		System.out.println("The Differce between even and odd are: " + Math.abs(sumOfTwoArray));
 		
 		scan.close();
+		//edited by dave
 		
 	}
 

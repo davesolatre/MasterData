@@ -5,6 +5,8 @@ import java.util.Scanner;
 public class mergeArray {
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
+		
+		//edited by dave
 		System.out.println("Enter the values of First Array: ");
 		int n1 = sc.nextInt();
 		System.out.println("Enter the values of Second Array: ");
